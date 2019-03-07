@@ -2,6 +2,9 @@
 
 namespace OlaMundo
 {
+    /// <summary>
+    /// Sumário teste
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
